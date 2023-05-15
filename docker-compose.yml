@@ -1,0 +1,59 @@
+version: '3'
+
+volumes:
+  mysql_db:
+  mongo_db:
+
+services:
+
+  mongo_database:
+    image: mongo
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=root
+      - MONGO_INITDB_ROOT_PASSWORD=example
+    volumes:
+      - mongo_db:/data/db
+    ports:
+      - "27017:27017"
+
+  mongo-express:
+    image: mongo-express
+    restart: always
+    depends_on:
+      - mongo_database
+    ports:
+      - "8081:8081"
+    environment:
+      - ME_CONFIG_MONGODB_ADMINUSERNAME=root
+      - ME_CONFIG_MONGODB_ADMINPASSWORD=example
+      - ME_CONFIG_MONGODB_URL=mongodb://root:example@mongo_database:27017/
+
+  mysql_database:
+    image: mysql
+    volumes:
+      - mysql_db:/var/lib/mysql
+    environment:
+      - MYSQL_USER=user
+      - MYSQL_PASSWORD=root1234
+      - MYSQL_ROOT_PASSWORD=root1234
+
+  eureka-server:
+    image: eureka_server
+    build: ./Eureka
+    restart: always
+    ports:
+      - "8761:8761"
+
+
+  productos:
+    image: micro_productos
+    build: ./Productos
+    restart: always
+    depends_on:
+      - mysql_database
+      - eureka-server
+    environment:
+      spring.datasource.url: jdbc:mysql://mysql_database:3306/productos?createDatabaseIfNotExist=true
+      spring.datasource.username: root
+      spring.datasource.password: root1234
+      eureka.client.service-url.defaultZone: http://eureka-server:8761/eureka
