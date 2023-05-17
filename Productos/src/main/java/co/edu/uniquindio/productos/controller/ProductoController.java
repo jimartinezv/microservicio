@@ -23,7 +23,7 @@ public class ProductoController {
     public ResponseEntity<Respuesta<Producto>> save(@RequestBody ProductoDTO productoDTO){
         return ResponseEntity.status(HttpStatus.CREATED).body( new Respuesta<>("Producto creado correctamente", productoServicio.save(productoDTO)) );
     }**/
-    @PostMapping
+    @PostMapping("/crear")
     public ResponseEntity<Respuesta<Producto>> save(@RequestBody ProductoDTO cliente){
         return ResponseEntity.status(HttpStatus.CREATED).body( new Respuesta<>("Producto creado correctamente", productoServicio.save(cliente)) );
     }

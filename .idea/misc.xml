@@ -13,6 +13,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring-boot-3-jwt-security-main/pom.xml" />
+        <option value="$PROJECT_DIR$/rest-demo-users-main/pom.xml" />
       </list>
     </option>
   </component>

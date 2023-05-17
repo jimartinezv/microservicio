@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Autenticacion.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Autenticacion.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/AutheUsers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AutheUsers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gateway.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Gateway.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Productos.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Productos.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Users.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Users.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/microservicio.iml" filepath="$PROJECT_DIR$/.idea/microservicio.iml" />

@@ -57,3 +57,15 @@ services:
       spring.datasource.username: root
       spring.datasource.password: root1234
       eureka.client.service-url.defaultZone: http://eureka-server:8761/eureka
+  
+  gateway:
+    image: micro_gateway
+    build: ./Gateway
+    restart: always
+    depends_on:
+      - eureka-server
+      - productos
+    environment:
+      eureka.client.service-url.defaultZone: http://eureka-server:8761/eureka
+    ports:
+      - "8055:8080"
