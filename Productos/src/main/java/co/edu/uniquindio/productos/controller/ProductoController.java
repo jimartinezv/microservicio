@@ -1,6 +1,7 @@
 package co.edu.uniquindio.productos.controller;
 
 import co.edu.uniquindio.productos.dto.ProductoDTO;
+import co.edu.uniquindio.productos.dto.ProductoDTOSave;
 import co.edu.uniquindio.productos.model.Producto;
 import co.edu.uniquindio.productos.servicio.ProductoServicio;
 import lombok.AllArgsConstructor;
@@ -25,6 +26,7 @@ public class ProductoController {
     }**/
     @PostMapping("/crear")
     public ResponseEntity<Respuesta<Producto>> save(@RequestBody ProductoDTO cliente){
+
         return ResponseEntity.status(HttpStatus.CREATED).body( new Respuesta<>("Producto creado correctamente", productoServicio.save(cliente)) );
     }
 
@@ -34,19 +36,19 @@ public class ProductoController {
     }
 
     @GetMapping("/exists/{idProducto}")
-    public ResponseEntity<Respuesta<Boolean>> existsById(@PathVariable String idProducto){
+    public ResponseEntity<Respuesta<Boolean>> existsById(@PathVariable Integer idProducto){
         return ResponseEntity.status(HttpStatus.OK).body( new Respuesta<>("", productoServicio.existsById(idProducto)) );
     }
 
     @GetMapping("/{idProducto}")
-    public ResponseEntity<Respuesta<Producto>> findById(@PathVariable String idProducto){
+    public ResponseEntity<Respuesta<Producto>> findById(@PathVariable Integer idProducto){
         return ResponseEntity.status(HttpStatus.OK).body( new Respuesta<>("", productoServicio.findById(idProducto)) );
     }
 
 
 
     @GetMapping("/ids")
-    public ResponseEntity<Respuesta<List<Producto>>> findByIds(@RequestBody List<String> idProducto){
+    public ResponseEntity<Respuesta<List<Producto>>> findByIds(@RequestBody List<Integer> idProducto){
         return ResponseEntity.status(HttpStatus.OK).body( new Respuesta<>("", productoServicio.findAllByIds(idProducto)) );
     }
 

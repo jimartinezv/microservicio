@@ -1,11 +1,7 @@
 package co.edu.uniquindio.productos.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.Data;
-import lombok.NoArgsConstructor;
+import jakarta.persistence.*;
+import lombok.*;
 
 import java.io.Serializable;
 
@@ -13,14 +9,18 @@ import java.io.Serializable;
 @NoArgsConstructor
 @Data
 @Builder
+
 @AllArgsConstructor
 public class Producto implements Serializable {
     @Id
-    private String codigo;
+    private Integer codigo;
 
+    @Column(nullable = false)
     private String nombre;
 
+    @Column(nullable = false)
     private String descripcion;
 
+    @Column(nullable = false)
     private double precio;
 }

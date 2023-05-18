@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12a12323-006d-4b91-bbbf-d20bca9f4012" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Autenticacion/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autenticacion/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autenticacion/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Autenticacion/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Autenticacion.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/AutheUsers.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Gateway.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Gateway.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Users.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/build/classes/java/main/co/edu/uniquindio/biblioteca/EurekaServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eureka/src/main/java/co/edu/uniquindio/biblioteca/EurekaServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/8.0/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.idea/libraries/gradle_wrapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.idea/libraries/libs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/build/classes/java/main/co/edu/uniquindio/biblioteca/GatewayServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/build/classes/java/main/co/edu/uniquindio/biblioteca/controller/GatewayController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/build/classes/java/main/co/edu/uniquindio/biblioteca/security/JwtAuthConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/build/resources/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/src/main/java/co/edu/uniquindio/biblioteca/GatewayServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/src/main/java/co/edu/uniquindio/biblioteca/controller/GatewayController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/src/main/java/co/edu/uniquindio/biblioteca/security/JwtAuthConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/src/main/java/co/edu/uniquindio/biblioteca/security/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway - copia/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/8.0/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/8.0/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/8.0/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/8.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/8.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/8.0/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/classes/java/main/co/edu/uniquindio/biblioteca/GatewayServiceApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/classes/java/main/co/edu/uniquindio/biblioteca/controller/GatewayController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/classes/java/main/co/edu/uniquindio/biblioteca/security/JwtAuthConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/classes/java/main/co/edu/uniquindio/biblioteca/security/WebSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/libs/Gateway-0.0.1-SNAPSHOT-plain.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/build/libs/Gateway-0.0.1-SNAPSHOT-plain.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/libs/Gateway-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/build/libs/Gateway-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/libs/Gateway-0.0.1-gateway-plain.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/libs/Gateway-0.0.1-gateway.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/resources/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/build/resources/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/tmp/compileJava/compileTransaction/stash-dir/WebSecurityConfig.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/build/tmp/compileJava/compileTransaction/stash-dir/WebSecurityConfig.class.uniqueId0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/src/main/java/co/edu/uniquindio/biblioteca/GatewayServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/src/main/java/co/edu/uniquindio/biblioteca/controller/GatewayController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/src/main/java/co/edu/uniquindio/biblioteca/security/JwtAuthConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/src/main/java/co/edu/uniquindio/biblioteca/security/WebSecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/controller/ProductoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/controller/ProductoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/dto/ProductoDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/dto/ProductoDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/model/Producto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/model/Producto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/repo/ProductoRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/repo/ProductoRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/servicio/ProductoServicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/Productos/src/main/java/co/edu/uniquindio/productos/servicio/ProductoServicio.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/Autenticacion">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Eureka">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/Productos">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/gateway">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/gateway">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gateway" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gateway" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="gateway" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2PwF2p6qzrIH11myUTMblj1205y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "corretto-17",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="EurekaServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Eureka.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.edu.uniquindio.unishop.EurekaServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uniquindio.unishop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.edu.uniquindio.unishop.GatewayServiceApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uniquindio.unishop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductosApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Productos.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="co.edu.uniquindio.productos.ProductosApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="co.edu.uniquindio.productos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GatewayServiceApplication" />
+        <item itemvalue="Spring Boot.ProductosApp" />
+        <item itemvalue="Spring Boot.EurekaServiceApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12a12323-006d-4b91-bbbf-d20bca9f4012" name="Changes" comment="" />
+      <created>1684360036537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684360036537</updated>
+      <workItem from="1684360039981" duration="1935000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

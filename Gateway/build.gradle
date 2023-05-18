@@ -5,7 +5,7 @@ plugins {
 }
 
 group = 'co.edu.uniquindio'
-version = '0.0.1-gateway'
+version = '0.0.2-gateway'
 sourceCompatibility = '17'
 
 repositories {

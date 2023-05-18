@@ -1,6 +1,7 @@
 package co.edu.uniquindio.productos.servicio;
 
 import co.edu.uniquindio.productos.dto.ProductoDTO;
+import co.edu.uniquindio.productos.dto.ProductoDTOSave;
 import co.edu.uniquindio.productos.exepciones.ProductoNoEncontrado;
 import co.edu.uniquindio.productos.model.Producto;
 import co.edu.uniquindio.productos.repo.ProductoRepo;
@@ -34,7 +35,7 @@ public class ProductoServicio {
         return productoRepo.save( convertir(producto) );
     }
 
-    public Producto findById(String producto){
+    public Producto findById(Integer producto){
         return productoRepo.findById(producto).orElseThrow(()-> new ProductoNoEncontrado("El producto no existe"));
 
     }
@@ -42,7 +43,7 @@ public class ProductoServicio {
     //public boolean existsById(String id){
       //  return productoRepo.existsById(id);
     //}
-    public boolean existsById(String id){
+    public boolean existsById(Integer id){
         log.info("Puerto del proceso que responde: {}", environment.getProperty("local.server.port"));
         return productoRepo.existsById(id);
     }
@@ -51,7 +52,7 @@ public class ProductoServicio {
         return productoRepo.findAll();
     }
 
-    public List<Producto> findAllByIds(List<String> id){
+    public List<Producto> findAllByIds(List<Integer> id){
         return productoRepo.findAllById(id);
     }
 
